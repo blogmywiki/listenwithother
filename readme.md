@@ -6,7 +6,7 @@
 
 This podcast is an experiment to find a different outlet for my short stories, as well as finding a way to combine my love of mixing and editing audio with presenting. It carries no advertising, no sponsorship and is just for fun.
 
-### About the author
+#### About the author
 
 Giles Booth was born in Bristol and grew up in North Somerset. He's a former BBC radio studio manager and teacher. He enjoys reading and writing short fiction. His 2008 novella for young adults *Constance Breakwater and her Beautiful Museumhood* is available as an eBook and paperback via Amazon.
 
