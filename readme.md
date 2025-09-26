@@ -1,6 +1,7 @@
+# Because grown-ups need story-time too.
+
 <img src="images/listen-with-other-small.jpg" alt="A fake 1970s BBC schools record cover for Listen with Other" width="300" align="right">
 
-# Because grown-ups need story-time too.
 
 ### About this podcast
 
