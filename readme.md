@@ -14,4 +14,7 @@ Giles Booth was born in Bristol and grew up in North Somerset. He's a former BBC
 
 Kate's birthday fell just after new year so it was always a struggle finding people in the mood to party. Hoping to exorcise the memory of a disastrous birthday party five years ago, her husband lan books a getaway in rural Somerset. Unfinished business with Margate Louise, a friend they lost touch with, a storm called Arthur and a stone circle that is not what it seems, ensure that this new year and birthday do not go to plan...
 
-&copy; 2025 Giles Booth
+***
+
+Listen with Other is a GSB Radio Enterprises production.
+&copy; 2025 Giles Booth.
