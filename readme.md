@@ -2,7 +2,7 @@
 <img src="images/listen-with-other-small.jpg" alt="A fake 1970s BBC schools record cover for Listen with Other" width="300" align="right">
 Because grown-ups need story-time too.
 
-## About this podcast
+### About this podcast
 
 This podcast is an experiment to find a different outlet for my short stories, as well as finding a way to combine my love of mixing and editing audio with presenting. It carries no advertising, no sponsorship and is just for fun.
 
