@@ -14,7 +14,7 @@ Giles Booth was born in Bristol and grew up in North Somerset. He's a former BBC
 
 Kate's birthday fell just after new year so it was always a struggle finding people in the mood to party. Hoping to exorcise the memory of a disastrous birthday party five years ago, her husband lan books a getaway in rural Somerset. Unfinished business with Margate Louise, a friend they lost touch with, a storm called Arthur and a stone circle that is not what it seems, ensure that this new year and birthday do not go to plan...
 
-<a href="https://podcasts.apple.com/us/podcast/listen-with-other/id1842661048?itscg=30200&itsct=podcast_box_badge&ls=1&mttnsubad=1842661048" style="display: inline-block;">
+<a href="https://podcasts.apple.com/us/podcast/listen-with-other/id1842661048?itscg=30200&itsct=podcast_box_badge&ls=1&mttnsubad=1842661048" style="display: inline-block;" target="_blank">
     <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/listen-on-apple-podcasts/badge/en-us" alt="Listen on Apple Podcasts" style="width: 258px; height: 82px; vertical-align: middle; object-fit: contain;" />
     </a>
 
