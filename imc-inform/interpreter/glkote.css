@@ -61,15 +61,16 @@
      can change that, but don't touch the position or margin. */
   position: absolute;
   margin: 0px;
-  background: white;
+  background: #0000cc;
 }
 
 .BufferWindow {
   overflow: scroll;   /* vertical scrollbar is mandatory */
   overflow-x: hidden; /* but horizontal scrollbar is forbidden */
   font-family: 'ZX Spectrum-7 Regular';
-  font-size: 30px;
-  line-height: 1;
+  color: white;
+  font-size: 32px;
+  line-height: 0.6;
   padding: 6px 10px 6px 10px;
 }
 
@@ -78,10 +79,12 @@
 }
 
 .GridWindow {
-  background: #D0D0C0;
+  background: #000000; /* was #D0D0C0; */
   overflow: hidden;
-  font-family: monaco, andale mono, lucidatypewriter, courier, courier new, monospace; /* necessary! */
-  font-size: 14px;
+  font-family: 'ZX Spectrum-7 Regular';
+  /* font-family: monaco, andale mono, lucidatypewriter, courier, courier new, monospace; /* necessary! */
+  font-size: 32px; /* was 14px */
+  color: white;
   padding: 6px 10px 6px 10px;
 }
 
@@ -148,7 +151,8 @@
 
 .BufferWindow .Input {
   font-family: 'ZX Spectrum-7 Regular';
-  font-size: 30px;
+  font-size: 32px;
+  color: white;
 }
 
 .GridWindow .Input {
@@ -227,7 +231,7 @@
 }
 
 .Style_input {
-  color: #300000;
+  color: #FFFFFF; /* was 300000 */
 }
 
 .Style_user1 {
