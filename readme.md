@@ -1,4 +1,4 @@
-<img width="1000" height="524" alt="image" src="https://github.com/user-attachments/assets/69c2327c-9189-49e4-986f-b41c1e7584bf" />## Because grown-ups need story-time too.
+## Because grown-ups need story-time too.
 
 <img src="images/listen-with-other-small.jpg" alt="A fake 1970s BBC schools record cover for Listen with Other" width="250" align="right">
 
